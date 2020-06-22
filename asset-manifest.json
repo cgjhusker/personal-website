@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cgjhusker.github.io/static/css/main.22120f68.chunk.css",
+    "main.js": "/cgjhusker.github.io/static/js/main.09158ac3.chunk.js",
+    "main.js.map": "/cgjhusker.github.io/static/js/main.09158ac3.chunk.js.map",
+    "runtime-main.js": "/cgjhusker.github.io/static/js/runtime-main.8c99d3c1.js",
+    "runtime-main.js.map": "/cgjhusker.github.io/static/js/runtime-main.8c99d3c1.js.map",
+    "static/css/2.e4346227.chunk.css": "/cgjhusker.github.io/static/css/2.e4346227.chunk.css",
+    "static/js/2.86878e14.chunk.js": "/cgjhusker.github.io/static/js/2.86878e14.chunk.js",
+    "static/js/2.86878e14.chunk.js.map": "/cgjhusker.github.io/static/js/2.86878e14.chunk.js.map",
+    "index.html": "/cgjhusker.github.io/index.html",
+    "precache-manifest.c827bbe74a13fdfb8bca2fe1080fe8d9.js": "/cgjhusker.github.io/precache-manifest.c827bbe74a13fdfb8bca2fe1080fe8d9.js",
+    "service-worker.js": "/cgjhusker.github.io/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/cgjhusker.github.io/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.22120f68.chunk.css.map": "/cgjhusker.github.io/static/css/main.22120f68.chunk.css.map",
+    "static/js/2.86878e14.chunk.js.LICENSE.txt": "/cgjhusker.github.io/static/js/2.86878e14.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/cgjhusker.github.io/static/media/0.f2758dfc.png",
+    "static/media/Screen Shot 2020-06-22 at 4.00.38 PM.png": "/cgjhusker.github.io/static/media/Screen Shot 2020-06-22 at 4.00.38 PM.ad7fbcb2.png",
+    "static/media/Screen Shot 2020-06-22 at 4.13.16 PM.png": "/cgjhusker.github.io/static/media/Screen Shot 2020-06-22 at 4.13.16 PM.71092093.png",
+    "static/media/java-img.png": "/cgjhusker.github.io/static/media/java-img.72a39d6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c99d3c1.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.86878e14.chunk.js",
+    "static/css/main.22120f68.chunk.css",
+    "static/js/main.09158ac3.chunk.js"
+  ]
+}
