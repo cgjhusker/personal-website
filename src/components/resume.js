@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Grid, Cell } from 'react-mdl'
-import img from '../resume.png'
+import img from '../resume2.png'
 
 class Resume extends Component {
     render() {
