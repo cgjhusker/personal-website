@@ -7,8 +7,9 @@ class Resume extends Component {
         return (
             <div style={{ width: '50%', margin: 'auto'}}>
                 <Grid className="landing-grid">
+                    <Cell col={12}></Cell>
                     <Cell align='middle' col={12}>
-                        <img style={{ width: "50%", height: "50%" }} src={img} alt=""/>
+                        <img style={{ width: "60%", height: "100%" }} src={img} alt=""/>
                     </Cell>
                 </Grid>
             </div>

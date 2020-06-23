@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Grid, Cell } from 'react-mdl'
-import image from "../Screen Shot 2020-06-22 at 4.13.16 PM.png"
+import image from "../contact7.jpg"
 
 class Contact extends Component {
     render() {
