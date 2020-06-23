@@ -9,7 +9,7 @@ class Contact extends Component {
                 <Grid className="landing-grid">
 
                     <Cell align='middle' col={12}>
-                        <img style={{ height: 500, width: 1300}} src={image} />
+                        <img style={{ height: 500, width: 1300}} src={image} alt=""/>
                     </Cell>
                 </Grid>
             </div>
