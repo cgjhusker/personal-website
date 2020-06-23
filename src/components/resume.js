@@ -9,7 +9,7 @@ class Resume extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}></Cell>
                     <Cell align='middle' col={12}>
-                        <img style={{ width: "60%", height: "100%" }} src={img} alt=""/>
+                        <img style={{ width: "60%", margin: 'auto' }} src={img} alt=""/>
                     </Cell>
                 </Grid>
             </div>
