@@ -5,10 +5,10 @@ import img from '../resume.png'
 class Resume extends Component {
     render() {
         return (
-            <div style={{ width: '50%', margin: 'auto'}}>
-                <Grid className="landing-grid">
+            <div style={{ width: '100%', height: '100%', margin: 'auto'}}>
+                <Grid className="resume-grid">
                     <Cell align='middle' col={12}>
-                        <img style={{ flex:1, height:undefined, width:undefined }} resizeMode="contain" src={img} alt=""/>
+                        <img style={{ height:'100%', width:'75%' }} src={img} alt=""/>
                     </Cell>
                 </Grid>
             </div>
